@@ -1,0 +1,16 @@
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.exe
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.deps.json
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.runtimeconfig.json
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.runtimeconfig.dev.json
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.dll
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\ref\Alphabet Generator.dll
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\Alphabet Generator.pdb
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.csprojAssemblyReference.cache
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.AssemblyInfoInputs.cache
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.AssemblyInfo.cs
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.csproj.CoreCompileInputs.cache
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.dll
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\ref\Alphabet Generator.dll
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.pdb
+C:\Users\jalon\source\repos\Alphabet Generator\obj\Release\net5.0\Alphabet Generator.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\publish\Alphabet Generator.exe
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\publish\Alphabet Generator.dll
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\publish\Alphabet Generator.deps.json
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\publish\Alphabet Generator.runtimeconfig.json
+C:\Users\jalon\source\repos\Alphabet Generator\bin\Release\net5.0\publish\Alphabet Generator.pdb
