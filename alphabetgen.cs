@@ -35,7 +35,7 @@ class MainClass
             }
         }
         
-        Console.WriteLine("Characters not in user's input:");
+        Console.WriteLine("Letters not in user's input:");
         // loops through alphabet list (after removal of letters from user's input) and writes them to the console
         foreach (string letter in alphabetList)
         {
