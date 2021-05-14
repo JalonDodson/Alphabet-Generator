@@ -37,9 +37,9 @@ class MainClass
         
         Console.WriteLine("Characters not in user's input:");
         // loops through alphabet list (after removal of letters from user's input) and writes them to the console
-        foreach (string character in alphabetList)
+        foreach (string letter in alphabetList)
         {
-            Console.WriteLine(character);
+            Console.WriteLine(letter);
         }
         // removes excess (empty) space from alphabet list, writes the new capacity to the console
         alphabetList.TrimExcess();
